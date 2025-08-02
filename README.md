@@ -39,6 +39,12 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 </p>
+&nbsp;
+# 🏆 Achievements
+
+- Built and deployed 4+ real-world web apps
+- Collaborated with Made4Cloud Ltd on multiple client projects
+- Learned web development self-taught after engineering degree
 
 
 ---
