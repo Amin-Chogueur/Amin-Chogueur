@@ -1,6 +1,6 @@
 ## Hi, I'm Amin Chogueur, a Front-End Web Developer 🚀 from Algeria.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Amin-Chogueur)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amin-chogueur/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chogueuramine@gmail.com)
 
