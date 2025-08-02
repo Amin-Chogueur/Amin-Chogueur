@@ -6,7 +6,8 @@
 
 &nbsp;
 
-<img width="55%" align="right" alt="Code" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Web Developer" src="https://user-images.githubusercontent.com/74038190/212749257-5c9c92a3-c407-4c58-b7a1-3758c26f3c50.png" />
+
 
 **About Me:**
 
