@@ -10,8 +10,8 @@
 
 **About Me:**
 
-- 👨‍💻 I’m currently building an e-commerce and book management app using **Next.js**, **MongoDB**, and **Cloudinary**.
-- 🌱 I’m currently learning **TypeScript**, **authentication flows**, and **SEO optimization**.
+- 👨‍💻 I'm currently working as a freelancer and actively seeking a position in a company where I can grow alongside senior developers while contributing my skills to support the team’s goals.
+- 🌱 I'm currently learning backend development using Node.js, TypeScript, authentication flows, and MongoDB integration. ✅
 - 💬 Ask me about **React**, **Next.js**, or anything front-end!
 - ⚡️ Fun Fact: I hold a **Master's degree in Hydraulic Engineering**, but web development became my passion.
 - 📫 Reach me at: **chogueuramine@gmail.com**
